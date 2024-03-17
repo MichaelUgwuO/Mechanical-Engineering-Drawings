@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a collection of mechanical engineering drawings created during the "Fundamentals of Mechanical Engineering Drawings" course. It serves as a demonstration of my proficiency in reading, interpreting, and documenting engineering designs. The drawings illustrate various machine parts, highlighting my ability to detail complex components accurately.
+This repository showcases a collection of mechanical engineering drawings created during the Fundamentals of Mechanical Engineering Drawings course. It serves as a demonstration of my proficiency in reading, interpreting, and documenting engineering designs. The drawings illustrate various machine parts, highlighting my ability to detail complex components accurately.
 
 ## Contents
 
@@ -13,7 +13,7 @@ This repository showcases a collection of mechanical engineering drawings create
 
 ## Purpose
 
-The purpose of this repository is to document my journey through the "Fundamentals of Mechanical Engineering Drawings" course and to demonstrate my skills in:
+The purpose of this repository is to document my journey through the Fundamentals of Mechanical Engineering Drawings course and to demonstrate my skills in:
 - Interpreting mechanical engineering designs.
 - Creating detailed and accurate drawings.
 - Understanding and applying engineering principles to documentation.
@@ -32,4 +32,4 @@ As a student of mechanical engineering, I have a keen interest in the intricacie
 
 For more information or inquiries, feel free to contact me.
 
-**[Your Contact Information]**
+**michael.o.u@outlook.com**
