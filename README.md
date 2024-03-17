@@ -24,7 +24,7 @@ The purpose of this repository is to document my journey through the Fundamental
 - Ability to read and interpret design drawings and documentation.
 - Knowledge of mechanical engineering principles and their application in design.
 
-## About the Author
+## Conclusion
 
 As a student of mechanical engineering, I have a keen interest in the intricacies of machine design and the translation of conceptual designs into tangible components. This repository reflects my commitment to excellence in engineering drawing and design.
 
