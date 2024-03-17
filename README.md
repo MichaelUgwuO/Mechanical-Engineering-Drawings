@@ -4,6 +4,8 @@
 
 This repository showcases a collection of mechanical engineering drawings created during the Fundamentals of Mechanical Engineering Drawings course. It serves as a demonstration of my proficiency in reading, interpreting, and documenting engineering designs. The drawings illustrate various machine parts, highlighting my ability to detail complex components accurately.
 
+## Note: Kindly note that to view the drawings, you may need to scroll down the PDFs. Any minor imperfections or distortions present in the PDF files are due to the use of a mobile PDF scanner
+
 ## Contents
 
 - **Hand Rail Carrier:** Detailed design of a carrier system for hand rails, focusing on stability and strength.
