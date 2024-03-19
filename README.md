@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a collection of mechanical engineering drawings created during the Fundamentals of Mechanical Engineering Drawings course. 
+This repository contains a collection of mechanical engineering drawings created during the Fundamentals of Mechanical Engineering Drawings course. 
 ## Note: 
 Kindly note that to view the drawings, you may need to scroll down the PDFs. We were instructed to write song quotes at the top of the documents as proof that we didn't cheat/submit older drawings. Any minor imperfections or distortions present in the PDF files are due to the use of a mobile PDF scanner. 
 ## Contents
