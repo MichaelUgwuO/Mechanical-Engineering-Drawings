@@ -4,7 +4,7 @@
 
 This repository contains a collection of mechanical engineering drawings created during the Fundamentals of Mechanical Engineering Drawings course. 
 ## Note: 
-Kindly note that to view the drawings, you may need to scroll down the PDFs. We were instructed to write song quotes at the top of the documents as proof that we didn't cheat/submit older drawings. Any minor imperfections or distortions present in the PDF files are due to the use of a mobile PDF scanner. 
+Kindly note that to view the drawings, you may need to scroll down the PDFs. Any minor imperfections or distortions present in the PDF files are due to the use of a mobile PDF scanner. We were instructed to write song quotes at the top of the documents as proof that we didn't cheat/submit older drawings. 
 ## Contents
 
 - **Hand Rail Carrier:** Detailed design of a carrier system for hand rails, focusing on stability and strength.
